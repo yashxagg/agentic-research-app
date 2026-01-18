@@ -22,7 +22,7 @@ This project is an **Agentic RAG (Retrieval-Augmented Generation)** application 
 | :--- | :--- |
 | **LLM Engine** | Groq (Llama-3.3-70B) |
 | **Framework** | LangChain |
-| **Vector DB** | ChromaDB |
+| **Vector DB** | FAISS |
 | **Embeddings** | HuggingFace (`all-MiniLM-L6-v2`) |
 | **UI** | Streamlit |
 
