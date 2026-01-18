@@ -1,0 +1,11 @@
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Local Data/Vector DB
+chroma_store/
+*.pdf
