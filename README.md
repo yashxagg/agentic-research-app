@@ -1,3 +1,4 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 # 🕵️‍♂️ Agentic Research Analyst
 **Lightning-fast document intelligence powered by Groq & LangChain.**
 
@@ -36,7 +37,34 @@ This project is an **Agentic RAG (Retrieval-Augmented Generation)** application 
 ┣ 📄 requirements.txt    # Project dependencies
 ┣ 📄 .env                # API Keys (Git-ignored 🛡️)
 ┣ 📄 .gitignore          # Security rules
+┣ 📄 LICENSE
 ┗ 📂 src/                # Modular processing logic
   ┣ 📜 document_loader.py
   ┗ 📜 vector_store.py
+```
+---
+
+
+## ⚙️ Installation & Usage
+### 1. Clone the repository.
+```bash
+git clone https://github.com/yashxagg/agentic-research-app.git
+cd agentic-research-app
+```
+### 2. Install dependencies.
+```bash
+pip install -r requirements.txt
+```
+### 3. Run the Streamlit App:
+```bash
+streamlit run app.py
+```
+
+---
+
+## 👤 Author
+* **Yash Aggarwal**
+  * 🎓 B.Tech CSE (AI & ML) | Class of 2026
+  * 🐙 [GitHub Profile](https://github.com/yashxagg)
+  * 💼 [LinkedIn Profile](https://linkedin.com/in/yash-aggarwal0812)
 
