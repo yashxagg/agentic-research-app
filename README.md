@@ -13,7 +13,7 @@ This project is an **Agentic RAG (Retrieval-Augmented Generation)** application 
 * **Sub-Second Responses:** Powered by **Llama-3.3-70B** on Groq for high-speed research.
 * **Grounded Citations:** Automatically extracts and displays the exact page number and text snippet from the PDF.
 * **Conversational Memory:** Remembers the context of your research session for follow-up questions.
-* **Privacy Focused:** Uses local embeddings (**HuggingFace**) and local vector storage (**ChromaDB**).
+* **Privacy Focused:** Uses local embeddings (**HuggingFace**) and local vector storage (**FAISS**).
 
 ---
 
